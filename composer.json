@@ -1,0 +1,22 @@
+{
+  "name": "iamlab/google-sheets-db",
+  "type": "library",
+  "license": "MIT",
+  "description": "A library to use Google Sheets as a basic Database",
+  "authors": [
+    {
+      "name": "Kev Morton",
+      "email": "kev@kevs.biz"
+    },
+    {
+      "name": "R Brewer",
+      "youtube": "https://www.youtube.com/channel/UCu2077A7wmVDFsrUfwn09tw"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "GoogleSheetsDb\\": "GoogleSheetsDb/"
+    }
+  },
+  "require": {}
+}
